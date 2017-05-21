@@ -1,0 +1,11 @@
+{
+  "name": "kodilla_11_1_telefony",
+  "version": "1.0.0",
+  "description": "task prototype",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
